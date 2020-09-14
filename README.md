@@ -46,7 +46,8 @@ export class SRukshan98 {
   public static Work: string[] = [
     'Website Administrator', // 6 months
     'Web Developer', // 1 1/2 years
-    'Associate Software Engineer - Current' // 11 months
+    'Associate Software Engineer', // 6 months
+    'Software Engineer - Current' // 5 months
   ]; // etc
   
   public static Projects: string[] = [
