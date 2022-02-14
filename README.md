@@ -28,6 +28,7 @@ export class SRukshan98 {
     'Honesty',
     'Planning Ahead',
     'Coding',
+    'Creative',
   ]; // etc
 
   public static Admires: string[] = [
@@ -47,10 +48,12 @@ export class SRukshan98 {
     'Website Administrator', // 6 months
     'Web Developer', // 1 1/2 years
     'Associate Software Engineer', // 6 months
-    'Software Engineer - Current' // 5 months
+    'Software Engineer' // 1 year
+    'Senior Software Engineer - Current' // 10 months
   ]; // etc
   
   public static Projects: string[] = [
+    'Angular Smart Workspace',
     'Smart Image Cropper - Python',
     'Smart Chip Container - Angular Library',
     'Qpress - Node JS Rest API Server Framework'
