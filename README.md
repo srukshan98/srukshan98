@@ -45,11 +45,12 @@ export class SRukshan98 {
   ]; // etc
 
   public static Work: string[] = [
-    'Website Administrator', // 6 months
-    'Web Developer', // 1 1/2 years
-    'Associate Software Engineer', // 6 months
-    'Software Engineer' // 1 year
-    'Senior Software Engineer - Current' // 10 months
+    'Website Administrator (Alphabetical IT)', // 6 months
+    'Web Developer (Alphabetical IT)', // 1 1/2 years
+    'Associate Software Engineer (DCE)', // 6 months
+    'Software Engineer (DCE)' // 1 year
+    'Senior Software Engineer (DCE)' // 1 year 8 months
+    'Associate Technical Lead - Current (DCE)' // 1 months
   ]; // etc
   
   public static Projects: string[] = [
